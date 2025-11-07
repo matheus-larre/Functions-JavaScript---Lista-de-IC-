@@ -1,8 +1,8 @@
 # 🚀 Lista de exercícios Javascript
 
- ** Bem-vindo à lista de exercícios sobre JavaScript! 🎉 Siga as instruções abaixo responder a lista. 💪
+ ** Bem-vindo à lista de exercícios sobre JavaScript! 🎉 As instruções de cada questão, estão comentadas em seus respectivos arquivos. 💪
 
-- Objetivo: O objetivo desta atividade é proporcionar ao aluno uma prática sobre a criação e
+- Objetivo: O objetivo desta atividade foi proporcionar uma prática sobre a criação e
 utilização de funções em JavaScript. Os exercícios cobrem conceitos fundamentais como
 definição de funções, parâmetros, valores de retorno, e o uso de funções em operações
 matemáticas.
@@ -15,3 +15,5 @@ js-1
 * Repositório Clonado conforme instruções.
 * Funções foram implementadas.
 * Testes concuídos conforme imagem abaixo.
+
+![alt text](image.png)
